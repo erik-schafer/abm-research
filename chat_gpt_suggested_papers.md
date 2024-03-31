@@ -27,7 +27,7 @@ When selecting your research question, consider:
 
 Relevance: Is the question addressing a significant problem or gap in the literature?
 Feasibility: Can the question be effectively explored using ABM within your project’s constraints?
-Interest: Does the question spark your curiosity and passion, and does it align with your and Dylan's expertise and interests?
+Interest: Does the question spark your curiosity and passion, and does it align with your expertise and interests?
 Next Steps
 Once you've brainstormed potential questions, review the current literature to refine your question and ensure it adds value to the existing body of research. Collaboratively discussing these options can help you pinpoint a question that is both exciting and viable for your project.
 
