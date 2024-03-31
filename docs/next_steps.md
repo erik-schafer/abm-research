@@ -17,7 +17,7 @@ This document outlines the immediate next steps for our agent-based modeling pro
 
 ## Ideation and Literature Review
 
-- [ ] **Define Research Question**
+- [ ] **Sketch Research Question**
   - [ ] Consider relevant literature.
   - [ ] Brainstorm potential questions.
   - [ ] Narrow down to a specific, researchable question.
