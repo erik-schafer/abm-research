@@ -9,10 +9,11 @@ This document outlines the immediate next steps for our agent-based modeling pro
 - [ ] **Initial Meeting:** Schedule and conduct an initial meeting to align on project goals, roles, and timelines.
   - [ ] Establish regular meetings and some channel for communication (gmail, slack, signal, etc)
   - [ ] Identify + Plan for work bandwidth (co-working days/times, hrs per week, to the extent possible)
-  - [ ] Identify and assign next tasks
+  - [ ] Identify and assign next tasks (i.e. identify epics, tasks to the extent possible)
 - [ ] **Trello Board Configuration:**
   - [ ] Create labels for task categorization
   - [ ] Create initial epics
+  - [ ] Create initial tasks under epics
 
 ## Ideation and Literature Review
 
@@ -27,7 +28,7 @@ This document outlines the immediate next steps for our agent-based modeling pro
     - [ ] Create epics and tasks in trello
     - [ ] Assign and execute tasks
   - [ ] Summarize findings
-    - [ ] Draft an `summary.md` to jump summarize findings and provide resources for future *Introduction*, *Discussion*, *Conclusion* sections.
+    - [ ] Draft a `summary.md` to jump summarize findings and provide resources for future *Introduction*, *Discussion*, *Conclusion* sections.
 
 - [ ] **Prototype models**
   - [ ] Identify literature findings to reproduce
