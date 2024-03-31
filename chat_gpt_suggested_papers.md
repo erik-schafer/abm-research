@@ -1,4 +1,37 @@
 
+Choosing a research question for your agent-based modeling (ABM) project in economics can be both exciting and challenging. The best questions often arise from identifying gaps in the current literature or from real-world economic phenomena that are not adequately explained by existing models. Here are some thought starters across various economic domains that might inspire a compelling research question for your project:
+
+1. Environmental Economics
+Question: How do individual behaviors and government policies impact the adoption of renewable energy sources in a regional economy?
+ABM Application: Model households and firms making energy-related decisions based on economic incentives, social influence, and policy interventions.
+2. Financial Markets
+Question: How do information asymmetry and rumor spread influence stock market volatility?
+ABM Application: Simulate a financial market where agents have varying access to information and observe how misinformation can lead to bubbles and crashes.
+3. Urban and Regional Economics
+Question: How does the distribution of amenities and jobs influence patterns of residential segregation and urban sprawl?
+ABM Application: Create agents representing households with different preferences and constraints choosing where to live based on job locations, housing prices, and neighborhood characteristics.
+4. Labor Economics
+Question: What are the impacts of automation and artificial intelligence on employment patterns across different sectors?
+ABM Application: Model a labor market where firms decide on the adoption of new technologies and workers have varying abilities to adapt or switch sectors.
+5. Health Economics
+Question: How do individual health behaviors and public health policies affect the spread of infectious diseases within communities?
+ABM Application: Simulate the spread of a disease through a population where individuals’ movement and interaction patterns are influenced by personal health choices and government interventions.
+6. Social Networks and Economic Decisions
+Question: How do social networks influence consumer choices and the diffusion of new products in a market?
+ABM Application: Model consumers making purchasing decisions influenced by their social connections, exploring how network structure affects market outcomes.
+7. Game Theory and Strategic Interaction
+Question: How do cooperative behaviors emerge in competitive economic environments, and what are their long-term effects on market efficiency?
+ABM Application: Use ABM to simulate strategic interactions among agents in various game-theoretic settings, exploring the conditions under which cooperation is beneficial.
+Selecting Your Question
+When selecting your research question, consider:
+
+Relevance: Is the question addressing a significant problem or gap in the literature?
+Feasibility: Can the question be effectively explored using ABM within your project’s constraints?
+Interest: Does the question spark your curiosity and passion, and does it align with your and Dylan's expertise and interests?
+Next Steps
+Once you've brainstormed potential questions, review the current literature to refine your question and ensure it adds value to the existing body of research. Collaboratively discussing these options can help you pinpoint a question that is both exciting and viable for your project.
+
+---
 **Working Paper No. 383 Contagion in financial networks Prasanna Gai and Sujit Kapadia**
 
 > The approach provides a rst step towards modelling contagion risk when true linkages are unknown. It would be useful to extend the simulation analysis by relaxing the assumption that the defaulting bank is randomly selected and, along the lines of Albert et al (2000), considering the implications of targeted failure affecting big or highly connected interbank borrowers. This would be particularly interesting in a set-up in which the joint degree distribution was calibrated to match observed data. Added realism could also be incorporated into the model by using real balance sheets for each bank or endogenising the formation of the network. Extending the model in this direction could help guide the empirical modelling of contagion risk and is left for future work.
